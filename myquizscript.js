@@ -1,7 +1,10 @@
 $(document).ready(function(){
-		$("p").click(function(){
-		$("p").css({"color":"red", "background-color":"yellow"});
+		$("#p4").click(function(){
+		$("#p5").show();
+		
 		
 		});
-		
+		$("#p5").click(function(){
+		$("#wave").animate({left:'+=100px'},'slow', )
+		});
 	})
