@@ -6,19 +6,55 @@ color:rgb(0,0,0);
 }
 body 
 {
-background-color:rgb(255,255,255);
+background-color:rgb(193,195,242);
+}
+h1
+{
+	text-align:center;
+	
 }
 img
 {
   padding: 25px;
   margin: 25px;
 }
-#p5
+#p3
 {
 	display: none;
+	color:rgb(20,120,30);
 }
 img
 {
 	width:300px;
 	position:relative;
+}
+#p6
+{
+	display: none;
+	color:rgb(20,120,30);
+	
+}
+#p9
+{
+	display: none;
+	color:rgb(20,120,30);
+}
+#p11
+{
+	display: none;
+	color:rgb(20,120,30);
+}
+#p14
+{
+	display: none;
+	color:rgb(20,120,30);
+}
+#p16
+{
+	display: none;
+	color:rgb(20,120,30);
+}
+#instructions
+{
+color:rgb(20,120,30);	
 }
